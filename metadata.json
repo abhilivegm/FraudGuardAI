@@ -1,0 +1,5 @@
+{
+  "name": "FraudGuard AI",
+  "description": "A forensic data analysis tool that uses Benford's Law and Gemini AI to detect anomalies and potential fraud in uploaded financial datasets.",
+  "requestFramePermissions": []
+}
